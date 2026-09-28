@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://orielstudio.github.io/prix-atelier/sitemap.xml
 Sitemap: https://orielstudio.github.io/nuitee-nette/sitemap.xml
+Sitemap: https://orielstudio.github.io/mailles-rangs/sitemap.xml
