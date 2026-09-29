@@ -5,3 +5,4 @@ Sitemap: https://orielstudio.github.io/prix-atelier/sitemap.xml
 Sitemap: https://orielstudio.github.io/nuitee-nette/sitemap.xml
 Sitemap: https://orielstudio.github.io/mailles-rangs/sitemap.xml
 Sitemap: https://orielstudio.github.io/partdechacun/sitemap.xml
+Sitemap: https://orielstudio.github.io/horaire-rando/sitemap.xml
